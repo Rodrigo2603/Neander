@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Fri Sep 17 18:15:16 2021
+[*]
+[dumpfile] "/home/rodrigo/Documentos/SISTEMAS DIGITAIS/NEANDER/MeuNeander/tb_NEANDER.ghw"
+[dumpfile_mtime] "Fri Sep 17 17:59:43 2021"
+[dumpfile_size] 132791
+[savefile] "/home/rodrigo/Documentos/SISTEMAS DIGITAIS/NEANDER/MeuNeander/ex06.gtkw"
+[timestart] 0
+[size] 1366 598
+[pos] -1 -1
+*-31.518841 495000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_neander.
+[sst_width] 212
+[signals_width] 262
+[sst_expanded] 1
+[sst_vpaned_height] 148
+@24
+#{top.tb_neander.uneander.umodulo_memoria.umem.ram[128][7:0]} top.tb_neander.uneander.umodulo_memoria.umem.ram[128][7] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][6] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][5] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][4] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][3] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][2] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][1] top.tb_neander.uneander.umodulo_memoria.umem.ram[128][0]
+#{top.tb_neander.uneander.umodulo_memoria.umem.ram[129][7:0]} top.tb_neander.uneander.umodulo_memoria.umem.ram[129][7] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][6] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][5] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][4] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][3] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][2] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][1] top.tb_neander.uneander.umodulo_memoria.umem.ram[129][0]
+#{top.tb_neander.uneander.umodulo_memoria.umem.ram[130][7:0]} top.tb_neander.uneander.umodulo_memoria.umem.ram[130][7] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][6] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][5] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][4] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][3] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][2] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][1] top.tb_neander.uneander.umodulo_memoria.umem.ram[130][0]
+#{top.tb_neander.uneander.umodulo_memoria.umem.ram[131][7:0]} top.tb_neander.uneander.umodulo_memoria.umem.ram[131][7] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][6] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][5] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][4] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][3] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][2] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][1] top.tb_neander.uneander.umodulo_memoria.umem.ram[131][0]
+#{top.tb_neander.uneander.umodulo_memoria.umem.ram[132][7:0]} top.tb_neander.uneander.umodulo_memoria.umem.ram[132][7] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][6] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][5] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][4] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][3] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][2] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][1] top.tb_neander.uneander.umodulo_memoria.umem.ram[132][0]
+#{top.tb_neander.uneander.umodulo_controle.uuc.sciclo[2:0]} top.tb_neander.uneander.umodulo_controle.uuc.sciclo[2] top.tb_neander.uneander.umodulo_controle.uuc.sciclo[1] top.tb_neander.uneander.umodulo_controle.uuc.sciclo[0]
+@28
+#{top.tb_neander.uneander.umodulo_ula.s_ac2flags[1:0]} top.tb_neander.uneander.umodulo_ula.s_ac2flags[1] top.tb_neander.uneander.umodulo_ula.s_ac2flags[0]
+#{top.tb_neander.uneander.umodulo_ula.interface_flags[1:0]} top.tb_neander.uneander.umodulo_ula.interface_flags[1] top.tb_neander.uneander.umodulo_ula.interface_flags[0]
+#{top.tb_neander.uneander.sflagsnz[1:0]} top.tb_neander.uneander.sflagsnz[1] top.tb_neander.uneander.sflagsnz[0]
+top.tb_neander.uneander.umodulo_ula.ac_rw
+#{top.tb_neander.uneander.umodulo_ula.ula_op[2:0]} top.tb_neander.uneander.umodulo_ula.ula_op[2] top.tb_neander.uneander.umodulo_ula.ula_op[1] top.tb_neander.uneander.umodulo_ula.ula_op[0]
+@24
+#{top.tb_neander.uneander.send_pc[7:0]} top.tb_neander.uneander.send_pc[7] top.tb_neander.uneander.send_pc[6] top.tb_neander.uneander.send_pc[5] top.tb_neander.uneander.send_pc[4] top.tb_neander.uneander.send_pc[3] top.tb_neander.uneander.send_pc[2] top.tb_neander.uneander.send_pc[1] top.tb_neander.uneander.send_pc[0]
+#{top.tb_neander.uneander.umodulo_memoria.s_rem2mem[7:0]} top.tb_neander.uneander.umodulo_memoria.s_rem2mem[7] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[6] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[5] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[4] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[3] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[2] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[1] top.tb_neander.uneander.umodulo_memoria.s_rem2mem[0]
+#{top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[7:0]} top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[7] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[6] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[5] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[4] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[3] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[2] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[1] top.tb_neander.uneander.umodulo_memoria.s_mem2rdm[0]
+#{top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[7:0]} top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[7] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[6] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[5] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[4] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[3] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[2] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[1] top.tb_neander.uneander.umodulo_memoria.s_rdm2barramento[0]
+#{top.tb_neander.uneander.sinterface_barramento[7:0]} top.tb_neander.uneander.sinterface_barramento[7] top.tb_neander.uneander.sinterface_barramento[6] top.tb_neander.uneander.sinterface_barramento[5] top.tb_neander.uneander.sinterface_barramento[4] top.tb_neander.uneander.sinterface_barramento[3] top.tb_neander.uneander.sinterface_barramento[2] top.tb_neander.uneander.sinterface_barramento[1] top.tb_neander.uneander.sinterface_barramento[0]
+@28
+top.tb_neander.uneander.umodulo_memoria.rem_rw
+top.tb_neander.uneander.umodulo_memoria.rdm_rw
+[pattern_trace] 1
+[pattern_trace] 0

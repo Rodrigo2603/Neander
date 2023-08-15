@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Aug 30 16:14:50 2021
+[*]
+[dumpfile] "/home/rodrigo/Documentos/SISTEMAS DIGITAIS/NEANDER/MeuNeander/tb_ULAMEM.ghw"
+[dumpfile_mtime] "Mon Aug 30 15:20:02 2021"
+[dumpfile_size] 17577
+[savefile] "/home/rodrigo/Documentos/SISTEMAS DIGITAIS/NEANDER/MeuNeander/exemploULAMEM.gtkw"
+[timestart] 0
+[size] 1366 598
+[pos] -1 -1
+*-24.799320 24900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[sst_width] 212
+[signals_width] 285
+[sst_expanded] 1
+[sst_vpaned_height] 148
+@28
+top.tb_ulamem.sclk
+top.tb_ulamem.scl
+@200
+-
+@420
+#{top.tb_ulamem.send_pc[7:0]} top.tb_ulamem.send_pc[7] top.tb_ulamem.send_pc[6] top.tb_ulamem.send_pc[5] top.tb_ulamem.send_pc[4] top.tb_ulamem.send_pc[3] top.tb_ulamem.send_pc[2] top.tb_ulamem.send_pc[1] top.tb_ulamem.send_pc[0]
+@28
+top.tb_ulamem.sbarr_pc
+top.tb_ulamem.srem_rw
+@200
+-
+@420
+#{top.tb_ulamem.umodmem.s_mux2rem[7:0]} top.tb_ulamem.umodmem.s_mux2rem[7] top.tb_ulamem.umodmem.s_mux2rem[6] top.tb_ulamem.umodmem.s_mux2rem[5] top.tb_ulamem.umodmem.s_mux2rem[4] top.tb_ulamem.umodmem.s_mux2rem[3] top.tb_ulamem.umodmem.s_mux2rem[2] top.tb_ulamem.umodmem.s_mux2rem[1] top.tb_ulamem.umodmem.s_mux2rem[0]
+#{top.tb_ulamem.umodmem.s_rem2mem[7:0]} top.tb_ulamem.umodmem.s_rem2mem[7] top.tb_ulamem.umodmem.s_rem2mem[6] top.tb_ulamem.umodmem.s_rem2mem[5] top.tb_ulamem.umodmem.s_rem2mem[4] top.tb_ulamem.umodmem.s_rem2mem[3] top.tb_ulamem.umodmem.s_rem2mem[2] top.tb_ulamem.umodmem.s_rem2mem[1] top.tb_ulamem.umodmem.s_rem2mem[0]
+#{top.tb_ulamem.umodmem.s_mem2rdm[7:0]} top.tb_ulamem.umodmem.s_mem2rdm[7] top.tb_ulamem.umodmem.s_mem2rdm[6] top.tb_ulamem.umodmem.s_mem2rdm[5] top.tb_ulamem.umodmem.s_mem2rdm[4] top.tb_ulamem.umodmem.s_mem2rdm[3] top.tb_ulamem.umodmem.s_mem2rdm[2] top.tb_ulamem.umodmem.s_mem2rdm[1] top.tb_ulamem.umodmem.s_mem2rdm[0]
+#{top.tb_ulamem.sinterface_barramento[7:0]} top.tb_ulamem.sinterface_barramento[7] top.tb_ulamem.sinterface_barramento[6] top.tb_ulamem.sinterface_barramento[5] top.tb_ulamem.sinterface_barramento[4] top.tb_ulamem.sinterface_barramento[3] top.tb_ulamem.sinterface_barramento[2] top.tb_ulamem.sinterface_barramento[1] top.tb_ulamem.sinterface_barramento[0]
+@28
+#{top.tb_ulamem.sula_op[2:0]} top.tb_ulamem.sula_op[2] top.tb_ulamem.sula_op[1] top.tb_ulamem.sula_op[0]
+@420
+#{top.tb_ulamem.umodula.s_ula2ac[7:0]} top.tb_ulamem.umodula.s_ula2ac[7] top.tb_ulamem.umodula.s_ula2ac[6] top.tb_ulamem.umodula.s_ula2ac[5] top.tb_ulamem.umodula.s_ula2ac[4] top.tb_ulamem.umodula.s_ula2ac[3] top.tb_ulamem.umodula.s_ula2ac[2] top.tb_ulamem.umodula.s_ula2ac[1] top.tb_ulamem.umodula.s_ula2ac[0]
+@28
+top.tb_ulamem.sac_rw
+@420
+#{top.tb_ulamem.umodula.s_ac2ula[7:0]} top.tb_ulamem.umodula.s_ac2ula[7] top.tb_ulamem.umodula.s_ac2ula[6] top.tb_ulamem.umodula.s_ac2ula[5] top.tb_ulamem.umodula.s_ac2ula[4] top.tb_ulamem.umodula.s_ac2ula[3] top.tb_ulamem.umodula.s_ac2ula[2] top.tb_ulamem.umodula.s_ac2ula[1] top.tb_ulamem.umodula.s_ac2ula[0]
+@28
+#{top.tb_ulamem.sinterface_flags[1:0]} top.tb_ulamem.sinterface_flags[1] top.tb_ulamem.sinterface_flags[0]
+[pattern_trace] 1
+[pattern_trace] 0

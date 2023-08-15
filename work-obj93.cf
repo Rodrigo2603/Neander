@@ -1,0 +1,125 @@
+v 4
+file . "STA.vhdl" "19489a24afa0d4c7e851982d72746a8f10214466" "20210919025452.661":
+  entity sta at 1( 0) + 0 on 4577;
+  architecture stack of sta at 11( 189) + 0 on 4578;
+file . "OR.vhdl" "7074342be40b395f8062ac8fdf098b4bdd756e7b" "20210919025452.652":
+  entity o_r at 1( 0) + 0 on 4563;
+  architecture other of o_r at 11( 188) + 0 on 4564;
+file . "NOT.vhdl" "223468dbc1b65d78611088c07f6ca42e1d2e11df" "20210919025452.648":
+  entity n_ot at 1( 0) + 0 on 4559;
+  architecture no of n_ot at 11( 190) + 0 on 4560;
+file . "JZ.vhdl" "40480a9543ac4f3c7fa2127f1740cf3f0ea424b9" "20210919025452.623":
+  entity jz at 1( 0) + 0 on 4537;
+  architecture jump of jz at 12( 219) + 0 on 4538;
+file . "JN.vhdl" "0a2edfa99e1f1d4db8141152c33a80d59523ff64" "20210919025452.622":
+  entity jn at 1( 0) + 0 on 4535;
+  architecture jump of jn at 12( 219) + 0 on 4536;
+file . "JMP.vhdl" "33c4bb40af53994a826d2b72bdcd3c37df39815d" "20210919025452.621":
+  entity jmp at 1( 0) + 0 on 4533;
+  architecture jump of jmp at 11( 189) + 0 on 4534;
+file . "HLT.vhdl" "14c37801628b4c2ef489c87145c5d690e97bb501" "20210919025452.620":
+  entity hlt at 1( 0) + 0 on 4531;
+  architecture finish of hlt at 11( 189) + 0 on 4532;
+file . "AND.vhdl" "92382f3e8a88978bd524abf32568b8bfea4f78a5" "20210919025452.612":
+  entity a_nd at 1( 0) + 0 on 4517;
+  architecture smth of a_nd at 11( 190) + 0 on 4518;
+file . "ADD.vhdl" "b4b819712cfde281f9e16766821db1275c5500c4" "20210919025452.609":
+  entity add at 1( 0) + 0 on 4513;
+  architecture adder of add at 11( 189) + 0 on 4514;
+file . "ULA.vhdl" "f5ceb4d2a2dbb938a597c0a1da70aa641b26e1aa" "20210919025452.681":
+  entity ula at 1( 0) + 0 on 4587;
+  architecture logic of ula at 14( 372) + 0 on 4588;
+file . "tb_MODULO_ULA.vhdl" "ecaea9d0be1db408833aad2d45eac0f211b815ce" "20210919025452.663":
+  entity tb_modulo_ula at 1( 0) + 0 on 4579;
+  architecture unit_logic_arit of tb_modulo_ula at 8( 107) + 0 on 4580;
+file . "reg01bitC.vhdl" "f6848f7f9e9dfc30cc60e66f15ef148945fea926" "20210919025452.657":
+  entity reg01bitc at 1( 0) + 0 on 4569;
+  architecture reg of reg01bitc at 14( 262) + 0 on 4570;
+file . "or_logic8.vhdl" "cb3ccab67a36c3a955d425fb0fc3c2a1ed19bda0" "20210919025452.649":
+  entity or_logic8b at 1( 0) + 0 on 4561;
+  architecture comuta of or_logic8b at 12( 230) + 0 on 4562;
+file . "not_logic8.vhdl" "f82b6ceaf8e6de9652393a81ae283f5bbb34f39f" "20210919025452.643":
+  entity not_logic8b at 1( 0) + 0 on 4557;
+  architecture comuta of not_logic8b at 11( 186) + 0 on 4558;
+file . "MODULO_ULA.vhdl" "071903b48a974ca2da014de4bfcfffe83a1f3727" "20210919025452.637":
+  entity modulo_ula at 1( 0) + 0 on 4547;
+  architecture logic of modulo_ula at 15( 425) + 0 on 4548;
+file . "FLAGS.vhdl" "bf26bf4d138bba8401205a855336ac009ed12942" "20210919025452.619":
+  entity flags at 1( 0) + 0 on 4529;
+  architecture reg of flags at 14( 296) + 0 on 4530;
+file . "fadder8.vhdl" "1377e8705c9b816291d894104e6fefd5d7cd8ad2" "20210919025452.617":
+  entity fadder8 at 1( 0) + 0 on 4527;
+  architecture behavior of fadder8 at 15( 255) + 0 on 4528;
+file . "fadder1.vhdl" "b4052646d1b5cb41253a1bdb85da00811416c5a8" "20210919025452.616":
+  entity fadder1 at 1( 0) + 0 on 4525;
+  architecture behavior_tb of fadder1 at 15( 209) + 0 on 4526;
+file . "and_logic8.vhdl" "7feda7a81a68709546559b2156b0a167af96ae22" "20210919025452.611":
+  entity and_logic8b at 1( 0) + 0 on 4515;
+  architecture comuta of and_logic8b at 12( 231) + 0 on 4516;
+file . "AC.vhdl" "e86c71edf0f2a24cf420645c966e66541af1a905" "20210919025452.607":
+  entity ac at 1( 0) + 0 on 4511;
+  architecture reg of ac at 14( 293) + 0 on 4512;
+file . "00-ffJKTD.vhdl" "9e091ef96e76ef2e131591b14b3a98473bf15fe7" "20210919025452.606":
+  entity ffjk at 2( 70) + 0 on 4505;
+  architecture latch of ffjk at 14( 316) + 0 on 4506;
+  entity ffd at 72( 2349) + 0 on 4507;
+  architecture latch of ffd at 84( 2594) + 0 on 4508;
+  entity fft at 105( 3028) + 0 on 4509;
+  architecture latch of fft at 117( 3273) + 0 on 4510;
+file . "MEMORIA.vhdl" "d61be4e45207a6f68e22b1297e56135d3b4b5e0f" "20210919025452.634":
+  entity as_ram at 2( 42) + 0 on 4541;
+  architecture behavior of as_ram at 16( 325) + 0 on 4542;
+file . "MODULO_MEMORIA.vhdl" "0d964c56c4c2756890bf81d2417e17290bcf8570" "20210919025452.636":
+  entity modulo_memoria at 1( 0) + 0 on 4545;
+  architecture memory of modulo_memoria at 17( 474) + 0 on 4546;
+file . "MUX_2x8.vhdl" "01b3d0dd08470703d958a125a774adf6de3398b5" "20210919025452.639":
+  entity mux2x8 at 1( 0) + 0 on 4551;
+  architecture comutador of mux2x8 at 16( 269) + 0 on 4552;
+file . "NEANDER.vhdl" "8cb5f0aa27f1ada2749f543c6dc40f178db29f28" "20210919025452.640":
+  entity neander at 1( 0) + 0 on 4553;
+  architecture computer of neander at 10( 122) + 0 on 4554;
+file . "RDM.vhdl" "a709987128cf766f032ea91543e42eec4359fd62" "20210919025452.656":
+  entity rdm at 1( 0) + 0 on 4567;
+  architecture reg of rdm at 14( 294) + 0 on 4568;
+file . "REM.vhdl" "f6f8054b7d3507fe54a9ab1d54adfca804ef876c" "20210919025452.659":
+  entity rem1 at 1( 0) + 0 on 4573;
+  architecture reg of rem1 at 14( 287) + 0 on 4574;
+file . "tb_ULA-MEM.vhdl" "3d3ef01e607545f7d1ac13becbf8cb867a734651" "20210919025452.678":
+  entity tb_ulamem at 1( 0) + 0 on 4583;
+  architecture ulamem of tb_ulamem at 8( 103) + 0 on 4584;
+file . "contador07.vhdl" "efc1156eae88e0c8e32c0068e9628edab39894b8" "20210919025452.613":
+  entity contador07 at 1( 0) + 0 on 4519;
+  architecture contar of contador07 at 12( 175) + 0 on 4520;
+file . "ctrljk07.vhdl" "aed835ca39c07969a544b7b075dcd713d1e6ef7e" "20210919025452.613":
+  entity ctrljk07 at 1( 0) + 0 on 4521;
+  architecture controle of ctrljk07 at 11( 173) + 0 on 4522;
+file . "Decodificador.vhdl" "ba783fd502e396d048aef4b919aa7be5e134f655" "20210919025452.614":
+  entity decodificador at 1( 0) + 0 on 4523;
+  architecture decode of decodificador at 11( 203) + 0 on 4524;
+file . "LDA.vhdl" "ec0b4fbc538c0ffa2f7a3c7480ad266f5d8e9e1b" "20210919025452.624":
+  entity lda at 1( 0) + 0 on 4539;
+  architecture load of lda at 11( 189) + 0 on 4540;
+file . "MODULO_CONTROLE.vhdl" "a26f558fa9f4d784d085086ba13f9bb538969ec7" "20210919025452.635":
+  entity modulo_controle at 1( 0) + 0 on 4543;
+  architecture control of modulo_controle at 16( 493) + 0 on 4544;
+file . "NOP.vhdl" "4afa9a775e99974b62f2cca2fb1f47f46e87d87a" "20210919025452.641":
+  entity nop at 1( 0) + 0 on 4555;
+  architecture nop of nop at 11( 189) + 0 on 4556;
+file . "PC.vhdl" "a775935c2732d3ff866a3173f53bb7ec39b7311c" "20210919025452.653":
+  entity pc at 1( 0) + 0 on 4565;
+  architecture counter of pc at 14( 346) + 0 on 4566;
+file . "reg08bitC.vhdl" "742b28d7dd27cb8a030ae107929d77b1baf5cf49" "20210919025452.658":
+  entity reg08bitc at 1( 0) + 0 on 4571;
+  architecture reg of reg08bitc at 14( 300) + 0 on 4572;
+file . "RI.vhdl" "63016768543c577a332e19652b6520b7738beadd" "20210919025452.660":
+  entity ri at 1( 0) + 0 on 4575;
+  architecture reg of ri at 14( 293) + 0 on 4576;
+file . "tb_NEANDER.vhdl" "3d42ef84d25df8ba26b07686dc1d4b8a0a06bcba" "20210919025452.668":
+  entity tb_neander at 1( 0) + 0 on 4581;
+  architecture computer of tb_neander at 7( 89) + 0 on 4582;
+file . "UC.vhdl" "6c66b98dd907a137fd91b1561b70296f82bc39ce" "20210919025452.680":
+  entity uc at 1( 0) + 0 on 4585;
+  architecture controle of uc at 13( 322) + 0 on 4586;
+file . "mux11x11.vhdl" "05dee91a36e03e7a250237ee776abea2a0a1c138" "20210919025452.638":
+  entity mux11x11 at 1( 0) + 0 on 4549;
+  architecture comutador of mux11x11 at 12( 303) + 0 on 4550;
